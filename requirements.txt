@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+supervision
+opencv-python
+numpy
+Pillow
+tqdm
+ultralytics
+transformers
+inference-sdk
+rfdetr
